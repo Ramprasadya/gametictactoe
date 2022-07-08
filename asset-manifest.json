@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gametictactoe/static/css/main.240a3641.css",
+    "main.js": "/gametictactoe/static/js/main.17650d24.js",
+    "static/js/787.6b0bed1b.chunk.js": "/gametictactoe/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/gametictactoe/index.html",
+    "main.240a3641.css.map": "/gametictactoe/static/css/main.240a3641.css.map",
+    "main.17650d24.js.map": "/gametictactoe/static/js/main.17650d24.js.map",
+    "787.6b0bed1b.chunk.js.map": "/gametictactoe/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.240a3641.css",
+    "static/js/main.17650d24.js"
+  ]
+}
